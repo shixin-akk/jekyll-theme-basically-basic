@@ -17,7 +17,7 @@ lang: zn-CN
 title: Shixin's personal Site
 email: 
 description: "shixin的期末项目"
-baseurl: "/猩猩打灯"# the optional subpath of your site, e.g. "/blog"
+baseurl: "shi-xinh"# the optional subpath of your site, e.g. "/blog"
 url: "https://shi-xinh.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "Shixin"
